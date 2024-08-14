@@ -1,3 +1,7 @@
+# ERRORS SHOWN IN ERROR-LOGS FOLDER
+
+
+
 # Polygon CDK Kurtosis Package
 
 A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Polygon CDK devnet.
